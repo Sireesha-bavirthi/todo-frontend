@@ -17,13 +17,6 @@ This is the **React + Vite** frontend for the TodoApp project.
 - JavaScript
 - CSS
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js v14 or higher
-- npm
-
 ### Installation & Running
 
 ```bash
